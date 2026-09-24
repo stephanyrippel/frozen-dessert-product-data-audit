@@ -1,1 +1,7 @@
-
+SKU,Category,Product_Name,Ingredients,Allergens,Nutrition_Facts,Net_Weight,Storage_Temperature,Shelf_Life,Serving_Size,Launch_Status,Validation_Result
+FD001,Ice Cream Tubs,Chocolate Ice Cream 500 mL,Complete,"Milk; Soy",Complete,500 mL,-18°C,12 months,60 g,Approved,Passed
+FD002,Ice Cream Tubs,Vanilla Ice Cream 500 mL,Complete,"Milk; Soy",Complete,500 mL,-18°C,12 months,60 g,Approved,Passed
+FD003,Ice Cream Tubs,Strawberry Ice Cream 500 mL,Complete,"Milk; Soy",Missing,500 mL,-18°C,12 months,60 g,Blocked,Missing Nutrition Facts
+FD004,Ice Cream Bars,Chocolate Almond Bar,Complete,"Milk; Soy; Almond",Complete,70 g,-18°C,12 months,70 g,Approved,Passed
+FD005,Frozen Cheesecakes,New York Cheesecake,Complete,"Milk; Eggs; Wheat",Complete,650 g,-18°C,9 months,80 g,Approved,Passed
+FD006,Frozen Cakes & Tortes,Chocolate Fudge Cake,Complete,"Milk; Eggs; Wheat",Complete,900 g,-18°C,,100 g,Warning,Missing Shelf Life
