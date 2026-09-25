@@ -75,7 +75,7 @@ A launch with incomplete Product Data can create regulatory compliance risks, in
 ## Tools used
 
 - FoodChecker (PIM system)
-- 3LM (ERP + POS)
+- 3LM (ERP)
 - Microsoft Excel
 - Google Looker Studio
 - GitHub Markdown
